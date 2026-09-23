@@ -4,8 +4,10 @@ NestJS app with GraphQL and Prisma
 
 ## Usage
 1. git clone
-2. docker-compose up --build
-3. open :3000/graphql and make a query
+2. cd query_profiles
+3. create .env file and set constants
+4. docker compose up --build
+5. open :3000/graphql and make a query
 
 ## ENV setup
 See .env.example for details.
